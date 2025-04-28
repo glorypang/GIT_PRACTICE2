@@ -4,10 +4,10 @@ contact_links: []
 templates:
   - name: Feature Template
     description: 새로운 기능 추가할 때 사용하는 템플릿
-    file: template.md
+    file: template1.md
   - name: Bugfix Template
     description: 버그 수정할 때 사용하는 템플릿
-    file:  template2.md
+    file: template2.md
   - name: Refactor Template
     description: 코드 리팩터링할 때 사용하는 템플릿
     file: refactor_template.md
