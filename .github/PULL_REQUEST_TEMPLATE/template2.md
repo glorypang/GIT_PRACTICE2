@@ -1,4 +1,12 @@
-# 작업 내용2
+---
+name: 기본 PR 템플릿
+description: 일반적인 작업 내용 작성용 PR 템플릿
+title: "[PR] 작업 제목 입력"
+labels: []
+assignees: []
+---
+
+# 작업 내용
 - 변경한 기능 요약
 
 # 추가 요청사항
